@@ -46,7 +46,7 @@ Instale as Dependências:
 npm install
 ```
 
-Inicie o servidor de desenvolvimento:
+Inicie o servidor:
 
 ```bash
 npm start
