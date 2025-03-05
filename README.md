@@ -1,4 +1,4 @@
-# consulta-cep
+# Consulta cep
 
 Bem-vindo ao projeto Consulta CEP! Esta é uma aplicação desenvolvida em React com TypeScript e TailwindCSS que permite aos usuários consultar endereços via API do ViaCEP, armazená-los localmente e listá-los de forma simples e eficiente.
 
